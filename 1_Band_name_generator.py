@@ -24,3 +24,5 @@ print(f'\nI think {pet_name}{city} would make a sick band name for you.')
 
 #5. Make sure the input cursor shows on a new line, see the example at:
 #   https://band-name-generator-end.appbrewery.repl.run/
+
+#input(prompting text), len(variable), variable.lower()
